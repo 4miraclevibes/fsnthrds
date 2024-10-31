@@ -119,7 +119,7 @@
 </head>
 <body>
     <div class="watermark-container">
-        <img src="{{ $category->image }}" alt="{{ $category->name }}" class="category-image">
+        {{-- <img src="{{ $category->image }}" alt="{{ $category->name }}" class="category-image"> --}}
         <div class="category-name">{{ $category->name }}</div>
         <div class="category-slug">{{ $category->slug }}</div>
         
