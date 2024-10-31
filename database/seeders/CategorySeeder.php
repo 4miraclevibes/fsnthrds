@@ -17,12 +17,12 @@ class CategorySeeder extends Seeder
             [
                 'name' => 'Atasan',
                 'slug' => 'atasan',
-                'image' => 'https://ik.imagekit.io/dcjlghyytp1/atasan.jpg',
+                'image' => 'https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/5/16/6ea7003d-eb4b-4ebf-9001-4f27ef8b4ca0.jpg',
             ],
             [
                 'name' => 'Bawahan',
                 'slug' => 'bawahan',
-                'image' => 'https://ik.imagekit.io/dcjlghyytp1/bawahan.jpg',
+                'image' => 'https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/5/16/6ea7003d-eb4b-4ebf-9001-4f27ef8b4ca0.jpg',
             ],
             [
                 'name' => 'Outerwear',
